@@ -27,9 +27,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulistiana18&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulistiana18&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulistiana18&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
