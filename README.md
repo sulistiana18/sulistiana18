@@ -33,22 +33,10 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 My Website
 
-<p align="left">
-  <a href="https://github.com/sulistiana18">
-    <img src="https://skillicons.dev/icons?i=github" />
+<p align="center">
+  <a href="https://sulistiana.site" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  ✨ “Code. Learn. Build. Repeat.” ✨
-</p>
-
-## 📊 My GitHub Contributions Summary
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sulistiana18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
